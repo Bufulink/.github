@@ -1,23 +1,26 @@
-# Bem-vindo à Organização Bufulink no GitHub
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="logo.png" alt="Logo do projeto"></a>
+</p>
 
-Somos uma equipe de desenvolvedores, designers e pesquisadores trabalhando em uma variedade de projetos. Nosso objetivo é criar software de código aberto que faça um impacto positivo na sociedade.
+# Bem-vindo à organização Bufulink no GitHub
+
+## Linguagens disponíveis
+- [English](#english)
+- [Portuguese](#)
+
+
+## O que somos?
+
+Somos uma equipe de desenvolvedores, designers e pesquisadores trabalhando em uma variedade de projetos. Nosso objetivo é criar software que solucione problemas de forma simples e limpa e sejam mantíveis. Trabalhamos principalmente com Typescript e Golang.
 
 ## Nossos Projetos
 
-- Projeto 1: Um aplicativo web que ajuda as pessoas a encontrar oportunidades voluntárias locais.
-- Projeto 2: Uma biblioteca para aprendizado de máquina fácil de usar para não especialistas.
-- Projeto 3: Uma ferramenta para visualizar e analisar grandes conjuntos de dados.
+- Um mecanismo de incentivo à revisão de artigos acadêmicos de código aberto. Veja mais na organização [Owl Papers](https://github.com/owl-papers)
+- Contratos inteligentes Equals9 token, como contratos de staking e gerenciamento de torneios e também os timelocks. Todo o código na organização [Equals9](https://github.com/equals9-com) 
 
-## Como contribuir
+## Contato
 
-Aceitamos contribuições de qualquer pessoa, independentemente do nível de experiência. Se você estiver interessado em contribuir para um de nossos projetos, por favor, dê uma olhada em nossas [diretrizes de contribuição](CONTRIBUINDO.md) para obter mais informações.
-
-## Código de Conduta
-
-Temos um [código de conduta](CODIGO_DE_CONDUTA.md) que todos os membros e contribuidores devem seguir. Se você tiver alguma preocupação ou problema, não hesite em entrar em contato com um de nossos membros da equipe.
-
-## Entre em contato conosco
-
-Se você tiver alguma dúvida ou quiser entrar em contato, por favor, envie um e-mail para [email@exemplo.com](mailto:email@exemplo.com) ou participe do nosso [Slack](https://exemplo.slack.com) canal.
+Se você tiver alguma dúvida ou quiser entrar em contato, por favor, envie um e-mail para [pedrohba18@gmail.com](mailto:pedrohba18@gmail.com) ou entre no nosso servidor [Discord](https://example.slack.com).
 
 Obrigado por visitar nossa organização! Esperamos trabalhar com você.

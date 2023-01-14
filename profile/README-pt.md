@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="logo.png" alt="Logo do projeto"></a>
+ <img src="https://github.com/Bufulink/.github/blob/master/profile/logo.png" alt="Logo do projeto"></a>
 </p>
 
 # Bem-vindo à organização Bufulink no GitHub
